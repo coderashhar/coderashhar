@@ -10,7 +10,7 @@
 
 <div align="center">
   
-🔭 I’m currently working on **becoming a fabulous Full Stack developer**
+🔭 I’m currently working on **becoming a fabulous Full Stack developer & AI Engineer**
  
 🌱 I’m currently learning **React, DSA**
 
